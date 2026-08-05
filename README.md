@@ -40,3 +40,16 @@ report/      Project report and documentation
 ## Project status
 
 This repository is being expanded with simulation files, plots, and documentation from my aerospace engineering coursework.
+
+## Key engineering outcomes
+
+Through this project, I developed practical experience in:
+
+* Modeling aircraft longitudinal motion using state-space equations
+* Deriving transfer functions from aerospace dynamic systems
+* Interpreting eigenvalues and stability modes
+* Simulating aircraft response in MATLAB and Simulink
+* Connecting mathematical models with engineering behavior
+
+This project strengthened my understanding of computational aerospace engineering and demonstrated how simulation and data analysis support engineering decision-making.
+
